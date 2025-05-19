@@ -17,8 +17,7 @@ tokens.forEach((token, index) => {
             .setApplicationId('1341080440278355999')
             .setType('STREAMING')
             .setURL('https://twitch.tv/88_fynnfs')
-            .setName('☆')
-            .setState('☆')
+            .setName('✂️')
             .setAssetsSmallImage('');
 
         client.user.setActivity(rpc.toJSON());
