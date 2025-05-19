@@ -16,7 +16,7 @@ tokens.forEach((token, index) => {
         const rpc = new Discord.RichPresence(client)
             .setApplicationId('1341080440278355999')
             .setType('STREAMING')
-            .setURL('https://twitch.tv/88_fynnfs')
+            .setURL('https://www.twitch.tv/prof0fynn')
             .setName('✂️')
             .setAssetsSmallImage('');
 
